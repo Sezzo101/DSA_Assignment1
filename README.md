@@ -2,6 +2,7 @@
 Course Code:DSA612S Assignment 1:
 
 GROUP MEMBERS:Ikanda Setson 221093419
+             Morning Nekongo 221070044
 
 Question 1: Restful APIs
 The problem centers on developing a Restful API for effectively managing staff, their offices, and 
